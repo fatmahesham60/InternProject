@@ -15,7 +15,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.TimeUnit;
 
 public class Main {
-    private static final List<String> allNames = new ArrayList<>();
+    private static final List<String> matrixList  = new ArrayList<>();
 
     public static void main(String[] args) throws InterruptedException {
 
